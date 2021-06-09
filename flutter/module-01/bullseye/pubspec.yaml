@@ -1,0 +1,15 @@
+name: bulleyes
+description: i dont know
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
