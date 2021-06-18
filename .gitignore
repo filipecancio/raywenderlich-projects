@@ -1,7 +1,8 @@
 kotlin/**/build
 kotlin/**/app/build
 kotlin/**/.idea
-
+kotlin/**/.gradle
+kotlin/**/local.properties
 
 # Created by https://www.toptal.com/developers/gitignore/api/flutter
 # Edit at https://www.toptal.com/developers/gitignore?templates=flutter
